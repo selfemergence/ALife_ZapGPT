@@ -1,0 +1,12 @@
+-- Description:
+The image shows a collection of blue dots that are distributed in two distinct clusters. Here is a detailed description of the distribution and shape:
+
+1. **Two Main Clusters**: There are two primary groups of dots, each forming a vertical line.
+   
+2. **Left Cluster**: The left cluster consists of dots that are closely packed together in a vertical line. The dots in this cluster are tightly grouped with minimal horizontal spread.
+
+3. **Right Cluster**: The right cluster also consists of dots that are closely packed together in a vertical line, similar to the left cluster. However, this cluster is positioned further to the right and is slightly longer vertically compared to the left cluster. There are also a few dots that extend horizontally from the bottom of this vertical line, forming a small horizontal segment at the base.
+
+4. **Overall Shape**: The overall shape of the dot distribution resembles two vertical lines with one line positioned to the left and the other to the right. The right line has an additional small horizontal
+
+-- Score: 0.2500

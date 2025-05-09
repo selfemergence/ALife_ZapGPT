@@ -1,0 +1,14 @@
+-- Description:
+The image shows the final positions of dots after being subjected to a process described by the prompt "scattering." Here is a detailed description of the distribution and shape of the dots:
+
+1. **Two Main Clusters**: There are two distinct clusters of dots, one located on the left side of the image and the other on the right side.
+
+2. **Left Cluster**:
+   - **Shape**: The dots in the left cluster form a vertical line that extends downward from the top of the image.
+   - **Distribution**: The dots are closely packed together, creating a dense, straight vertical line.
+
+3. **Right Cluster**:
+   - **Shape**: The dots in the right cluster form a shape that resembles an "L" lying on its side. The horizontal part of the "L" extends from the right edge of the image toward the left, and the vertical part of the "L" extends downward from the end of the horizontal part.
+   - **Distribution**: The dots are densely packed in
+
+-- Score: 0.6500

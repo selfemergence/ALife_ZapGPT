@@ -1,0 +1,4 @@
+-- Description:
+In the image, the dots are clustered together in a dense, roughly circular or elliptical shape. The distribution is concentrated in a single, compact group, with the dots appearing to be closely packed together. This clustering is consistent with the prompt "assemble the cells," which suggests that the dots (representing cells) should come together to form a cohesive group. There are no scattered or isolated dots; instead, they all contribute to the formation of this single, tight cluster.
+
+-- Score: 0.9500

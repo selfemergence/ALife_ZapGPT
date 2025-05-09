@@ -1,0 +1,14 @@
+-- Description:
+The image shows the final positions of dots after being prompted to "scatter apart." Here is a description of the overall distribution and shape of the dots:
+
+1. **Two Main Clusters**: There are two distinct clusters of dots.
+   - One cluster is located near the top-left corner of the image.
+   - The other cluster is located near the bottom-right corner of the image.
+
+2. **Vertical Alignment in the Top-Left Cluster**: The dots in the top-left cluster are aligned vertically, forming a straight line that extends from the top edge of the image downward.
+
+3. **Pyramid-like Shape in the Bottom-Right Cluster**: The dots in the bottom-right cluster form a pyramid-like shape. The base of the pyramid is wider and located near the bottom-right corner, while the apex points upward and to the left. The dots are more densely packed at the base and become progressively less dense as they move upward and to the left.
+
+4. **Sparse Distribution**: There are
+
+-- Score: 0.6500

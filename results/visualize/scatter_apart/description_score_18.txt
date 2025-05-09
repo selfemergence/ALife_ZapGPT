@@ -1,0 +1,20 @@
+-- Description:
+The image shows the final positions of dots after being prompted to "scatter apart." Here is a description of the overall distribution and shape of the dots:
+
+1. **Distribution**:
+   - The dots are primarily concentrated in two distinct clusters.
+   - One cluster is located towards the upper left portion of the image.
+   - The other cluster is situated towards the lower right portion of the image.
+
+2. **Shape**:
+   - Within each cluster, the dots form vertical lines.
+   - The cluster in the upper left appears as a single vertical line.
+   - The cluster in the lower right consists of two vertical lines that are close to each other, with one slightly longer than the other and an additional small group of dots extending horizontally from the base of the longer vertical line.
+
+3. **Spacing**:
+   - The two main clusters are spaced apart from each other, occupying opposite corners of the image.
+   - There is a significant amount of empty space between the two clusters.
+
+Overall, the dots
+
+-- Score: 0.3500

@@ -1,0 +1,14 @@
+-- Description:
+The image shows a collection of blue dots that are mostly clustered together in a specific shape. Here is a detailed description of the distribution and shape:
+
+1. **Clustered Region**: The majority of the dots are concentrated in a dense cluster that forms an L-shape. This cluster is located in the upper right corner of the image.
+   - The vertical part of the L-shape extends downward from the top right corner.
+   - The horizontal part of the L-shape extends to the left from the top right corner.
+
+2. **Sparse Dots**: There are a few dots that are not part of the main cluster. These dots are scattered around the image, primarily to the left and below the main cluster. They appear to be more sparsely distributed and do not form any distinct patterns or shapes.
+
+3. **Overall Shape**: The overall shape of the dot distribution is dominated by the L-shaped cluster, with a few isolated dots spread out elsewhere in the image.
+
+Given the original prompt
+
+-- Score: 0.3000

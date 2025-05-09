@@ -1,0 +1,12 @@
+-- Description:
+The image shows the final positions of dots after being prompted with the term "scattering." Here is a description of the overall distribution and shape of the dots:
+
+1. **Two Main Clusters**: There are two distinct clusters of dots in the image.
+   - **Left Cluster**: This cluster is vertically oriented and located towards the left side of the image. The dots are tightly packed in a narrow, vertical line.
+   - **Right Cluster**: This cluster is located towards the right side of the image. It has a more complex shape, with a vertical line of dots at the top that gradually spreads out into a wider, triangular shape as it extends downward.
+
+2. **Scattering Pattern**: The term "scattering" is reflected in the spread of the dots, especially in the right cluster. The dots start from a concentrated point and spread outwards, creating a dispersed pattern.
+
+3. **Distribution**: The distribution of dots is not uniform. The left cluster is more concentrated and linear, while
+
+-- Score: 0.8500

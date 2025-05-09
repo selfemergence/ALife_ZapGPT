@@ -1,0 +1,4 @@
+-- Description:
+In the image, the dots are primarily clustered together in a dense, roughly circular or elliptical shape. The majority of the dots are concentrated in this central cluster, indicating a successful assembly of the cells in response to the prompt "assemble the cells." However, there is one dot that is noticeably isolated from the main cluster, positioned to the right and slightly below the central group. This isolated dot suggests that not all cells fully adhered to the prompt, resulting in one cell remaining separate from the assembled group.
+
+-- Score: 0.9500

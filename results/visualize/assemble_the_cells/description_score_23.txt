@@ -1,0 +1,4 @@
+-- Description:
+In the image, the dots are primarily clustered together in a dense, roughly circular shape. The majority of the dots are concentrated in the center, forming a tight group. There are a few dots that are slightly dispersed from the main cluster, but overall, the distribution is quite compact. The shape of the cluster is somewhat irregular but generally circular, with most dots appearing to adhere to the prompt "assemble the cells" by grouping closely together.
+
+-- Score: 0.9500

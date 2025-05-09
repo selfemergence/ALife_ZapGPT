@@ -1,0 +1,4 @@
+-- Description:
+In the image, the dots are clustered together in a somewhat elongated, irregular shape. The distribution of the dots appears to be concentrated in a central area, with a few dots extending outward, creating a loose, amorphous form. The overall shape resembles a loose grouping or aggregation, which is consistent with the prompt "assemble the cells," suggesting an attempt to bring the dots together into a single cluster.
+
+-- Score: 0.8500

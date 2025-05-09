@@ -1,0 +1,18 @@
+-- Description:
+The image shows a distribution of blue dots that appear to be scattered in two distinct clusters. Here is a detailed description of the distribution and shape:
+
+1. **Two Main Clusters**:
+   - There are two primary clusters of dots.
+   - One cluster is located towards the top-left corner of the image.
+   - The other cluster is situated towards the bottom-right corner of the image.
+
+2. **Shape of Clusters**:
+   - The cluster in the top-left corner forms a vertical line or column of dots.
+   - The cluster in the bottom-right corner forms a more triangular or cone-shaped distribution, with the dots becoming denser towards the bottom-right and more spread out towards the top-left.
+
+3. **Scattering Pattern**:
+   - The dots in both clusters seem to be randomly scattered within their respective areas.
+   - The vertical cluster in the top-left has a more uniform distribution along the vertical axis.
+   - The triangular cluster in the bottom-right shows a gradient in density, with higher density
+
+-- Score: 0.8500

@@ -1,0 +1,17 @@
+-- Description:
+The image shows a distribution of blue dots that appear to be scattered in two distinct clusters. Here is a detailed description of the distribution and shape:
+
+1. **Left Cluster**:
+   - The dots on the left form a vertical line that is slightly curved or jagged.
+   - The line starts from the top left and extends downward, with the dots closely packed together.
+   - The width of this cluster is relatively narrow, resembling a vertical column.
+
+2. **Right Cluster**:
+   - The dots on the right form a more complex shape that resembles an "L" or a corner.
+   - The vertical part of the "L" starts from the bottom right and extends upward, with the dots closely packed together.
+   - The horizontal part of the "L" extends to the left from the top of the vertical part, creating a right-angle turn.
+   - The width of this cluster is wider at the horizontal part compared to the vertical part.
+
+Overall, the dots are concentrated in two main
+
+-- Score: 0.5000

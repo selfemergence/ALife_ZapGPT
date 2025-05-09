@@ -1,0 +1,14 @@
+-- Description:
+The image shows a distribution of blue dots that appear to be scattered in two distinct clusters. Here is a detailed description of the distribution and shape:
+
+1. **Two Main Clusters**: There are two primary groups of dots, one located on the left side of the image and the other on the right side.
+   
+2. **Left Cluster**: The dots on the left side are arranged in a vertical line, forming a straight, thin column. This cluster is tightly packed and does not spread out horizontally.
+
+3. **Right Cluster**: The dots on the right side are more spread out both vertically and horizontally. They form a shape that resembles a triangular or cone-like structure, with a wider base at the bottom and tapering to a narrower point at the top.
+
+4. **Spacing**: The dots within each cluster are closely spaced, but the two clusters themselves are separated by a significant empty space, adhering to the prompt 'scatter apart'.
+
+5. **Overall Shape**: The overall shape of
+
+-- Score: 0.8500

@@ -1,0 +1,14 @@
+-- Description:
+The image shows a collection of blue dots that are clustered together in a specific pattern. Here is a detailed description of the distribution and shape of the dots:
+
+1. **Clustering**: The dots are concentrated in a single, dense cluster. There are no dots scattered elsewhere in the image; they are all grouped together in one area.
+
+2. **Shape**: The cluster forms a roughly triangular shape, with the base of the triangle aligned horizontally at the bottom right of the image. The apex of the triangle points upwards and to the left.
+
+3. **Density**: The dots are tightly packed within the cluster, indicating a high density of points in this region. The concentration of dots is uniform within the triangular shape, with no visible gaps or sparse areas.
+
+4. **Location**: The cluster is positioned in the bottom right corner of the image, with the triangle's base touching the right edge and the bottom edge of the image.
+
+This distribution aligns with the prompt 'clustering,' as the dots
+
+-- Score: 0.9500

@@ -1,0 +1,4 @@
+-- Description:
+In the image, the dots are clustered together in a somewhat compact and irregular shape. The distribution of the dots suggests an attempt to follow the prompt "assemble the cells" by grouping them closely together. The cluster is not perfectly circular or symmetrical; instead, it has an organic, somewhat oval or elongated form. The dots are densely packed in the center and slightly more spread out towards the edges of the cluster.
+
+-- Score: 0.8500

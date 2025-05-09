@@ -1,0 +1,17 @@
+-- Description:
+The image shows a collection of blue dots that are distributed in two distinct clusters. Here is a detailed description of the distribution and shape:
+
+1. **Two Main Clusters**: There are two primary groups of dots, one located in the upper left quadrant and the other in the lower right quadrant of the image.
+
+2. **Shape of Clusters**:
+   - The cluster in the upper left appears to form a vertical line that curves slightly to the right at the top, resembling a reversed "J" or a hook.
+   - The cluster in the lower right forms a more compact, triangular shape with a wider base at the bottom and tapering to a point as it moves upward.
+
+3. **Spacing and Density**:
+   - Within each cluster, the dots are closely packed together, indicating a high density of points in those areas.
+   - There is a significant amount of empty space between the two clusters, consistent with the prompt 'scatter apart'.
+
+4. **Overall Distribution**:
+   - The dots are
+
+-- Score: 0.6500
