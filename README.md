@@ -41,7 +41,7 @@ automatically load this file to generate behaviors based on your prompts.
 
 You can replace this file with your own trained weights if you wish to evolve or fine-tune new behaviors.
 
-## How to Run
+#### How to Run
 
 ### 1. Interactive Prompt Simulation
 
