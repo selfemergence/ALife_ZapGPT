@@ -6,7 +6,7 @@ This repository provides the implementation and pretrained models for our ALife 
 It demonstrates how free-form natural language prompts can be used to steer collective behavior  
 in a simulated cellular environment, using a closed-loop architecture we call **ZapGPT**.
 
-## Repository Structure
+# Repository Structure
 
 - `cell.py`: Defines the individual cell agent and its physics-based interactions.
 - `environment.py`: Defines the cell environment and manages agent dynamics.
@@ -18,12 +18,13 @@ in a simulated cellular environment, using a closed-loop architecture we call **
 - `best_weights.pt`: Pretrained P2I model weights for generating vector fields.
 - `saved_frames/`: Directory for saving simulation output frames.
 
-## Installation
+# Installation
 
 Clone this repository and install the required Python packages.
 
-### Install with pip:
+# Install with pip:
 
+```markdown
 ```bash
 pip install torch numpy pygame sentence-transformers
 ```bash
@@ -43,7 +44,7 @@ automatically load this file to generate behaviors based on your prompts.
 
 You can replace this file with your own trained weights if you wish to evolve or fine-tune new behaviors.
 
-## How to Run
+# How to Run
 
 ### 1. Interactive Prompt Simulation
 
