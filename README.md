@@ -18,7 +18,7 @@ in a simulated cellular environment, using a closed-loop architecture we call **
 - `best_weights.pt`: Pretrained P2I model weights for generating vector fields.
 - `saved_frames/`: Directory for saving simulation output frames.
 
-## Installation
+### Installation
 
 Clone this repository and install the required Python packages.
 
