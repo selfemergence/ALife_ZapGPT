@@ -41,9 +41,9 @@ automatically load this file to generate behaviors based on your prompts.
 
 You can replace this file with your own trained weights if you wish to evolve or fine-tune new behaviors.
 
-#### How to Run
+## How to Run
 
-## 1. Interactive Prompt Simulation
+### 1. Interactive Prompt Simulation
 
 Run the interactive demo where you can enter free-form language prompts:
 
@@ -66,7 +66,7 @@ You can enter any free-form natural language prompt, for example:
 After the simulation runs, the start and end frames will be saved to:
 saved_frames/<your_prompt>/
 
-## Outputs
+### Outputs
 
 Simulation outputs are saved as images in the `saved_frames/` directory.  
 Each prompt creates its own subfolder containing:
@@ -76,7 +76,7 @@ Each prompt creates its own subfolder containing:
 
 Example:
 
-## Voice Input Simulation (Optional)
+### Voice Input Simulation (Optional)
 
 You can try voice-based interaction if you have a microphone installed.  
 Run the following script:
@@ -87,7 +87,7 @@ python test_p2i_voice.py
 This script will listen for your spoken prompt and attempt to convert it to text.
 After recognition, the simulation will run based on your spoken instruction.
 
-## Reproducing Paper Results: Batch Prompt Evaluation
+### Reproducing Paper Results: Batch Prompt Evaluation
 
 To reproduce the testing on multiple unseen prompts,  
 you can run the following command with a list of prompts:
@@ -98,7 +98,7 @@ python test_zapgpt_prompt.py --prompts "form a cluster" "scatter apart" "assembl
 Alternatively, test a single prompt:
 python test_zapgpt_prompt.py --prompt "form a cluster"
 
-Output
+### Output
 
 For each prompt, the script will:
 	•	Run 30 independent simulation trials.
@@ -125,7 +125,7 @@ Refer to Ollama documentation for setup: https://ollama.com
 - Optional: SpeechRecognition, PyAudio (for voice input)
 - Optional: Ollama API running locally (for VLM-based scoring)
 
-Install core requirements:
+### Install core requirements:
 
 ```bash
 pip install torch numpy pygame matplotlib sentence-transformers
