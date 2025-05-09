@@ -18,12 +18,14 @@ in a simulated cellular environment, using a closed-loop architecture we call **
 - `best_weights.pt`: Pretrained P2I model weights for generating vector fields.
 - `saved_frames/`: Directory for saving simulation output frames.
 
-### Installation
+## Installation
 
 Clone this repository and install the required Python packages.
 
 ### Install with pip:
 
+```bash
+pip install torch numpy pygame sentence-transformers
 ```bash
 pip install torch numpy pygame sentence-transformers
 
@@ -41,7 +43,7 @@ automatically load this file to generate behaviors based on your prompts.
 
 You can replace this file with your own trained weights if you wish to evolve or fine-tune new behaviors.
 
-#### How to Run
+## How to Run
 
 ### 1. Interactive Prompt Simulation
 
