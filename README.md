@@ -23,3 +23,8 @@ in a simulated cellular environment, using a closed-loop architecture we call **
 Clone this repository and install the required Python packages.
 
 # Install with pip:
+```bash
+pip install torch numpy pygame sentence-transformers
+
+
+# 
