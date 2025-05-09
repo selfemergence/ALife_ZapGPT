@@ -27,4 +27,4 @@ Clone this repository and install the required Python packages.
 pip install torch numpy pygame sentence-transformers
 
 
-# 
+# How to Run
